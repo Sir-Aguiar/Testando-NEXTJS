@@ -1,0 +1,13 @@
+.counterDiv button {
+  padding: 8px;
+  border-radius: 3px;
+  outline: none;
+  background-color: #1867c0;
+  color: white;
+  border: none;
+  font-size: 1rem;
+  cursor: pointer;
+}
+.counterDiv {
+  font-family: Arial, Helvetica, sans-serif;
+}
