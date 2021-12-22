@@ -3,9 +3,9 @@
 
 
 The first command in the terminal's 
-
+```
 npm init -y
-
+```
 This instruction create a package.json file with the dependencies of the project. After that you need to install the NextJs framework and the React e React-DOM libaries, you can do that with a single line of command:
 
 ```
